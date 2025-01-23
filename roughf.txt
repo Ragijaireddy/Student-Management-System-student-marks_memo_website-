@@ -1,0 +1,32 @@
+  </tr>
+        <br>
+        <tr>
+        <th scope="col"><B>subject</B></th>
+        <th scope="col"><B>marks</B></th>
+
+ 
+        </tr>
+        <tr>
+               <tr> <td>math1</td>
+               <th scope="col">'.$math1.'</th></tr>
+         <tr> <td>stat1</td>
+        <th>'.$stat1.'</th></tr>
+          <tr> <td>cs1</td></tr>
+        <th>'.$cs1.'</th>
+         <tr> <td>math2</td>
+        <th>'.$math2.'</th></tr>
+          <tr> <td>stat2</td>
+        <th>'.$stat2.'</th></tr>
+         <tr> <td>cs2</td>
+        <th>'.$cs2.'</th></tr>
+         <tr> <td>statpr1</td>
+        <th>'.$statpr1.'</th></tr>
+          <tr> <td>cspr1</td>   
+        <th>'.$cspr1.'</th></tr>
+           <tr> <td>statpr2</td>
+        <th>'.$statpr2.'</th></tr>
+         <tr> <td>cspr2</td>
+        <th>'.$cspr2.'</th></tr>
+        <br>
+        </tr>'; 
+        -------------------------------------------

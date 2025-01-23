@@ -1,0 +1,34 @@
+                     db=result
+
+TABLES ARE
+
+   1.admin TABLE
+   2.students table
+   
+
+
+                           FILES
+
+
+ i.   admin.php----it is a connection file.it create  the
+                     connection between mysql and php
+
+
+                      1.admin TABLE FILES
+
+
+i.   admin1.php-----------login for admin
+ii. a) adminhome.php-----------for home page to perform operations and 
+                             display the records in this page.
+    b) style.css----------it is style property for adminhome.php
+
+iii. sign.php---------it is avilable "adminhome.php"-----to create new admin.
+iv.  insert.php------- to insert the records into "students" table by admin.
+v.   update.php------- to update the record by the admin.
+vi.  delete.php------- delete the records by admin.
+
+                             STUDENTS TABLE FILES
+
+
+i.result.php------------it will be display the students results.
+

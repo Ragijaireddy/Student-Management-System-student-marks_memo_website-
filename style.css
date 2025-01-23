@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(236, 223, 223);
+}
+.new{
+    background-color: lightgreen;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;  
+}
+table {
+width: 100%;
+border-collapse: collapse;
+}
+
+th, td {
+padding: 9px;
+}
